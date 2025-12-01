@@ -1,0 +1,37 @@
+{
+  "version": 7,
+  "cmakeMinimumRequired": {
+    "major": 3
+  },
+  "configurePresets": [
+    {
+      "name": "debug-env",
+      "displayName": "debug-env",
+      "hidden": true,
+      "environment": {
+        "ARMGCC_DIR": "/home/brusli/.mcuxpressotools/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi",
+        "SdkRootDirPath": "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk",
+        "POSTPROCESS_UTILITY": "/home/brusli/.mcuxpressotools/mcux-fixelf-14.2.2/mcux-fixelf",
+        "MCUX_VENV_PATH": "/home/brusli/.mcuxpressotools/.venv_3_12/bin",
+        "PATH": "$env{MCUX_VENV_PATH}${pathListSep}$penv{PATH}",
+        "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+      },
+      "cacheVariables": {}
+    },
+    {
+      "name": "release-env",
+      "displayName": "release-env",
+      "hidden": true,
+      "environment": {
+        "ARMGCC_DIR": "/home/brusli/.mcuxpressotools/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi",
+        "SdkRootDirPath": "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk",
+        "POSTPROCESS_UTILITY": "/home/brusli/.mcuxpressotools/mcux-fixelf-14.2.2/mcux-fixelf",
+        "MCUX_VENV_PATH": "C:/Users/nxf84679/.mcuxpressotools/.venv_3_12/Scripts",
+        "PATH": "$env{MCUX_VENV_PATH}${pathListSep}$penv{PATH}",
+        "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+      },
+      "cacheVariables": {}
+    }
+  ],
+  "buildPresets": []
+}

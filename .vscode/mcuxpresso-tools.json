@@ -1,0 +1,16 @@
+{
+  "version": "25.3",
+  "toolchainPath": "/home/brusli/.mcuxpressotools/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi",
+  "linkedProjects": [],
+  "trustZoneType": "none",
+  "multicoreType": "none",
+  "projectType": "sdk-freestanding",
+  "sdk": {
+    "path": "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk",
+    "version": "25.09.00",
+    "boardId": "frdmmcxn947",
+    "deviceId": "MCXN947",
+    "coreId": "cm33_core0_MCXN947"
+  },
+  "projectName": "Final_project"
+}

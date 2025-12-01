@@ -1,0 +1,249 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"path" : "ide_overrides.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.30.0/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/tools/cmake_toolchain_files/armgcc.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/tools/cmake_toolchain_files/mcux_config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.30.0/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.30.0/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.30.0/CMakeASMCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/Compiler/GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/brusli/.mcuxpressotools/cmake-3.30.0-linux-x86_64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"path" : "flags.cmake"
+		},
+		{
+			"path" : "config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/all_lib_device.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/CMSIS/Core/Include/CMSIS_Include_core_cm.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/components/uart/component_lpuart_adapter.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/device_CMSIS.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/device_startup.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/device_system.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_clock.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_common.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_ctimer.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_gpio.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_inputmux_connections.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_lpadc.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_lpflexcomm.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_lpflexcomm_lpi2c.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_lpflexcomm_lpuart.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_mcx_spc.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_port.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_reset.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/driver_vref_1.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/utilities_misc_utilities.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/debug_console_lite/utility_assert_lite.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/utility_debug_console_lite.MCXN947.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/utility_str.MCXN947.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/armgcc/debug",
+		"source" : "/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/armgcc"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}
