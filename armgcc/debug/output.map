@@ -144,7 +144,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/hardware_init.c.obj
  .debug_line    0x00000000       0x89 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/hardware_init.c.obj
- .debug_str     0x00000000      0x235 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/hardware_init.c.obj
+ .debug_str     0x00000000      0x23c CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/hardware_init.c.obj
  .comment       0x00000000       0x46 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/hardware_init.c.obj
  .debug_frame   0x00000000       0x30 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/hardware_init.c.obj
  .ARM.attributes
@@ -364,7 +364,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x1a CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_common.c.obj
  .debug_line    0x00000000      0x31a CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_common.c.obj
- .debug_str     0x00000000      0x327 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_common.c.obj
+ .debug_str     0x00000000      0x32e CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_common.c.obj
  .comment       0x00000000       0x46 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_common.c.obj
  .debug_frame   0x00000000       0x58 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_common.c.obj
  .ARM.attributes
@@ -875,7 +875,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x55 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/fsl_syscall_stub.c.obj
  .debug_line    0x00000000      0x354 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/fsl_syscall_stub.c.obj
- .debug_str     0x00000000      0x40a CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/fsl_syscall_stub.c.obj
+ .debug_str     0x00000000      0x411 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/fsl_syscall_stub.c.obj
  .comment       0x00000000       0x46 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/fsl_syscall_stub.c.obj
  .debug_frame   0x00000000      0x1b8 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/fsl_syscall_stub.c.obj
  .ARM.attributes
@@ -963,7 +963,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0xca CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/str/fsl_str.c.obj
  .debug_line    0x00000000      0xbcb CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/str/fsl_str.c.obj
- .debug_str     0x00000000      0x6a4 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/str/fsl_str.c.obj
+ .debug_str     0x00000000      0x6ab CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/str/fsl_str.c.obj
  .comment       0x00000000       0x46 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/str/fsl_str.c.obj
  .debug_frame   0x00000000      0x414 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/str/fsl_str.c.obj
  .ARM.attributes
@@ -3031,33 +3031,33 @@ LOAD linker stubs
  .debug_line    0x0000cd03      0x85f CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/debug_console_lite/fsl_debug_console.c.obj
  .debug_line    0x0000d562       0x44 /home/brusli/.mcuxpressotools/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libcr_newlib_nohost.a(_exit.o)
 
-.debug_str      0x00000000    0x11e5a
- .debug_str     0x00000000    0x11e5a CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/led_blinky.c.obj
-                               0x3524 (size before relaxing)
- .debug_str     0x00011e5a     0x2d1b CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/peripherals.c.obj
- .debug_str     0x00011e5a     0x2bc2 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/board.c.obj
- .debug_str     0x00011e5a     0x4293 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/clock_config.c.obj
- .debug_str     0x00011e5a     0x2041 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/pin_mux.c.obj
- .debug_str     0x00011e5a     0x13ed CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/oled.c.obj
- .debug_str     0x00011e5a     0x17e2 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/components/uart/fsl_adapter_lpuart.c.obj
- .debug_str     0x00011e5a     0x1e95 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/gcc/startup_MCXN947_cm33_core0.S.obj
- .debug_str     0x00011e5a     0x1b1a CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/system_MCXN947_cm33_core0.c.obj
- .debug_str     0x00011e5a     0x5ff9 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_clock.c.obj
- .debug_str     0x00011e5a      0x40d CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_common_arm.c.obj
- .debug_str     0x00011e5a     0x3a66 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_ctimer.c.obj
- .debug_str     0x00011e5a     0x22ea CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_gpio.c.obj
- .debug_str     0x00011e5a     0x38c3 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_lpadc.c.obj
- .debug_str     0x00011e5a     0x3730 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_lpflexcomm.c.obj
- .debug_str     0x00011e5a     0x43cc CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_lpi2c.c.obj
- .debug_str     0x00011e5a     0x2f66 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_lpuart.c.obj
- .debug_str     0x00011e5a     0x1d6e CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_spc.c.obj
- .debug_str     0x00011e5a     0x153a CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_reset.c.obj
- .debug_str     0x00011e5a     0x2242 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_vref.c.obj
- .debug_str     0x00011e5a      0x28a CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/fsl_sbrk.c.obj
- .debug_str     0x00011e5a       0xc8 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/fsl_memcpy.S.obj
- .debug_str     0x00011e5a      0x2e3 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/debug_console_lite/fsl_assert.c.obj
- .debug_str     0x00011e5a     0x1486 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/debug_console_lite/fsl_debug_console.c.obj
- .debug_str     0x00011e5a      0x203 /home/brusli/.mcuxpressotools/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libcr_newlib_nohost.a(_exit.o)
+.debug_str      0x00000000    0x11e61
+ .debug_str     0x00000000    0x11e61 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/led_blinky.c.obj
+                               0x352b (size before relaxing)
+ .debug_str     0x00011e61     0x2d22 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/peripherals.c.obj
+ .debug_str     0x00011e61     0x2bc9 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/board.c.obj
+ .debug_str     0x00011e61     0x429a CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/clock_config.c.obj
+ .debug_str     0x00011e61     0x2048 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/pin_mux.c.obj
+ .debug_str     0x00011e61     0x13f4 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/oled.c.obj
+ .debug_str     0x00011e61     0x17e9 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/components/uart/fsl_adapter_lpuart.c.obj
+ .debug_str     0x00011e61     0x1e95 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/gcc/startup_MCXN947_cm33_core0.S.obj
+ .debug_str     0x00011e61     0x1b21 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/system_MCXN947_cm33_core0.c.obj
+ .debug_str     0x00011e61     0x6000 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_clock.c.obj
+ .debug_str     0x00011e61      0x414 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_common_arm.c.obj
+ .debug_str     0x00011e61     0x3a6d CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_ctimer.c.obj
+ .debug_str     0x00011e61     0x22f1 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_gpio.c.obj
+ .debug_str     0x00011e61     0x38ca CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_lpadc.c.obj
+ .debug_str     0x00011e61     0x3737 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_lpflexcomm.c.obj
+ .debug_str     0x00011e61     0x43d3 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_lpi2c.c.obj
+ .debug_str     0x00011e61     0x2f6d CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_lpuart.c.obj
+ .debug_str     0x00011e61     0x1d75 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_spc.c.obj
+ .debug_str     0x00011e61     0x1541 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_reset.c.obj
+ .debug_str     0x00011e61     0x2249 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_vref.c.obj
+ .debug_str     0x00011e61      0x291 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/fsl_sbrk.c.obj
+ .debug_str     0x00011e61       0xc8 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/fsl_memcpy.S.obj
+ .debug_str     0x00011e61      0x2ea CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/debug_console_lite/fsl_assert.c.obj
+ .debug_str     0x00011e61     0x148d CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .debug_str     0x00011e61      0x203 /home/brusli/.mcuxpressotools/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libcr_newlib_nohost.a(_exit.o)
 
 .comment        0x00000000       0x45
  .comment       0x00000000       0x45 CMakeFiles/led_blinky_peripheral_cm33_core0.elf.dir/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/led_blinky.c.obj
