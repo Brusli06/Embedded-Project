@@ -50,7 +50,7 @@ The OLED displays instructions for selecting one of the 4 sub-applications, base
 - Pressing the encoder button (SW6) turns **all LEDs ON** ✨  
 - Rotating left or right gradually **turns off LEDs one by one** until one remains  
 - The remaining LED then “moves” in the direction indicated by the encoder  
-- Encoder direction is via **interrupts**
+- Encoder direction is found by getting the current state of the encoder via **interrupts** and comparing it with the previous one
  
 
 ## 🟠 **DP8 – Joystick-Controlled LEDs**  
