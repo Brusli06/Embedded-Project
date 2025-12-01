@@ -1,0 +1,11 @@
+/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/./fsl_gpio.h:345:20:GPIO_PinWrite	24	static
+/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/./fsl_gpio.h:427:24:GPIO_PinRead	16	static
+/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/./fsl_lpadc.h:1128:20:LPADC_DoSoftwareTrigger	16	static
+/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/./fsl_ctimer.h:517:20:CTIMER_StartTimer	16	static
+/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/./fsl_ctimer.h:527:20:CTIMER_StopTimer	16	static
+/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/led_blinky.c:53:6:GPIO40_IRQHandler	16	static
+/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/led_blinky.c:72:6:GPIO00_IRQHandler	16	static
+/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/led_blinky.c:90:6:GPIO31_IRQHandler	16	static
+/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/led_blinky.c:110:6:ctimer1_match_callback	16	static
+/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/led_blinky.c:115:6:ctimer2_match_callback	16	static
+/home/brusli/Documents/Projects/NXP/main/MCX_LAB_6_OLED/MCX_LAB_6_OLED/led_blinky.c:123:5:main	88	static

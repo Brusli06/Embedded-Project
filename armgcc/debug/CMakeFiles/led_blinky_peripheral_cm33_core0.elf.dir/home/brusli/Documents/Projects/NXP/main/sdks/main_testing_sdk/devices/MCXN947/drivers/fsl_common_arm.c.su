@@ -1,0 +1,4 @@
+/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_common_arm.c:126:6:MSDK_EnableCpuCycleCounter	8	static
+/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_common_arm.c:144:10:MSDK_GetCpuCycleCount	4	static
+/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_common_arm.c:180:13:DelayLoop	16	static
+/home/brusli/Documents/Projects/NXP/main/sdks/main_testing_sdk/devices/MCXN947/drivers/fsl_common_arm.c:210:6:SDK_DelayAtLeastUs	40	static
