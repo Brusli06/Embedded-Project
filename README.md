@@ -2,7 +2,8 @@
 
 This project implements a multi-mode embedded application on the **FRDM-MCXN947** board, using the **OLED display**, **LED array**, **Switches**, **Rotary Encoder**, **Potentiometer**, **DP Switches**, **Thermistor**, **Light Sensor**, and **Joystick**.  
 The system is built as a **state machine**, with each state representing a mini-application activated through hardware inputs.  
-Throughout the project, **timers** and **interrupts** are used extensively for control, synchronization, and event handling.  
+Throughout the project, **timers** and **interrupts** are used extensively for control, synchronization, and event handling.   
+`led_blinky.c` is the main code file.
 
 ---
 
