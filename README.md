@@ -28,10 +28,10 @@ The OLED displays instructions for selecting one of the 4 sub-applications, base
 
 **Description:**  
 - LEDs rotate sequentially 🔄  
-- Rotation direction changes when pressing a **switch (SW)**  
+- Rotation direction changes when pressing a **switch (SW1)**  
 - Rotation speed is controlled by the **potentiometer**, using **ADC readings** and a **hardware timer**
 
-
+ 
 
 ## **DP2 – Thermistor & Light Sensor Display**  
 🎥 ![App2 Demo](media/app2.gif)
