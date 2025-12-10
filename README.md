@@ -42,6 +42,7 @@ The OLED displays instructions for selecting one of the 4 sub-applications, base
   - Thermistor 🌡️  
   - Light sensor 💡   
 - Timer interrupts ensure smooth sensor sampling and value display
+- Temperature is taken as the ADC value
 
 
 ## **DP4 – Rotary Encoder LED Controller**  
