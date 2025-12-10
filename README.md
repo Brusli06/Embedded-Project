@@ -4,6 +4,7 @@ This project implements a multi-mode embedded application on the **FRDM-MCXN947*
 The system is built as a **state machine**, with each state representing a mini-application activated through hardware inputs.  
 Throughout the project, **timers** and **interrupts** are used extensively for control, synchronization, and event handling.   
 `led_blinky.c` is the main code file.
+`pin_mux.c` is the pin configurations file.
 
 ---
 
