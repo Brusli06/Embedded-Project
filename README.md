@@ -65,12 +65,12 @@ The LEDs light up based on joystick movement:
 - Right → Right LED ➡️  
 - Down → Bottom LED ⬇️    
 
-Joystick input is processed through ADC channels with interrupt-driven sampling.
+Joystick input is processed through pin state comparisons.
 
 
 ## ⚠️ 3. Default Error State
 ![Error](media/error.gif)
 
-Any unsupported DP Switch combination triggers the default error screen:
+Any unsupported DP Switch combination triggers the default error screen
 
 
