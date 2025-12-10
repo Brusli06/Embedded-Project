@@ -68,8 +68,8 @@ Joystick input is processed through ADC channels with interrupt-driven sampling.
 
 
 ## ⚠️ 3. Default Error State
+![Error](media/error.gif)
 
 Any unsupported DP Switch combination triggers the default error screen:
-![Error](media/error.gif)
 
 
