@@ -24,7 +24,7 @@ The OLED displays instructions for selecting one of the 4 sub-applications, base
 
 
 
-## 🛞 **DP1 – Rotate LEDs (SW direction change, ADC + Timer speed control)** 
+## **DP1 – Rotate LEDs (SW direction change, ADC + Timer speed control)** 
 🎥 ![App1 Demo](media/app1.gif)
 
 **Description:**  
@@ -55,7 +55,7 @@ The OLED displays instructions for selecting one of the 4 sub-applications, base
 - Encoder direction is found by getting the current state of the encoder via **interrupts** and comparing it with the previous one
  
 
-## 🕹️ **DP8 – Joystick-Controlled LEDs**  
+## **DP8 – Joystick-Controlled LEDs**  
 🎥 ![App4 Demo](media/app4.gif)
 
 **Description:**  
