@@ -1,4 +1,4 @@
-# Embedded Project 
+# State Machine 
 
 This project implements a multi-mode embedded application on the **FRDM-MCXN947** board, using the **OLED display**, **LED array**, **Switches**, **Rotary Encoder**, **Potentiometer**, **DP Switches**, **Thermistor**, **Light Sensor**, and **Joystick**.  
 The system is built as a **state machine**, with each state representing a mini-application activated through hardware inputs.  
